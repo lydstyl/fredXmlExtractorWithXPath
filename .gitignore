@@ -1,3 +1,4 @@
 node_modules
 *.xml
 *.csv
+.~lock*

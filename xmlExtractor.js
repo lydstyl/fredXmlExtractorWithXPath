@@ -2,6 +2,10 @@
 /* 
   utilisation :  node xmlExtractor.js source.xml filtre_chemins.pathList > sortie.csv
   node xmlExtractor.js 20180227StagingAEContentAE.xml lydAsset.pathList > 20180227StagingAEContentAE.csv
+
+  node xmlExtractor.js ./data/xml/my.xml ./pathLists/xxx/my.pathList > ./data/csv/my.csv
+  exemple
+  node xmlExtractor.js ./data/xml/20180227StagingAEContentAE.xml ./pathLists/content/lydFolder.pathList > ./data/csv/20180227StagingAEContentAE.csv
 */
 /**
 *  Classe de recherche
