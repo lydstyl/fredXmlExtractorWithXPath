@@ -1,0 +1,4 @@
+//library/content[attribute::content-id="*"]/display-name[attribute::xml:lang="en"]
+//library/content[attribute::content-id="*"]/display-name[attribute::xml:lang="en-AE"]
+//library/content[attribute::content-id="*"]/custom-attributes/custom-attribute[attribute::attribute-id="body"][attribute::xml:lang="en"]
+//library/content[attribute::content-id="*"]/custom-attributes/custom-attribute[attribute::attribute-id="body"][attribute::xml:lang="en-AE"]

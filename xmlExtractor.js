@@ -1,4 +1,8 @@
 
+/* 
+  utilisation :  node xmlExtractor.js source.xml filtre_chemins.pathList > sortie.csv
+  node xmlExtractor.js 20180227StagingAEContentAE.xml lydAsset.pathList > 20180227StagingAEContentAE.csv
+*/
 /**
 *  Classe de recherche
 */
