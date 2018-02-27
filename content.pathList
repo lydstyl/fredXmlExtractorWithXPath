@@ -1,0 +1,8 @@
+//library/folder[attribute::folder-id="*"]/display-name[attribute::xml:lang="fr-BE"]
+//library/folder[attribute::folder-id="*"]/description[attribute::xml:lang="fr-BE"]
+//library/folder[attribute::folder-id="*"]/page-attributes/page-title[attribute::xml:lang="fr-BE"]
+//library/folder[attribute::folder-id="*"]/page-attributes/page-description[attribute::xml:lang="fr-BE"]
+//library/folder[attribute::folder-id="*"]/refinement-definitions/refinement-definition/display-name[attribute::xml:lang="fr-BE"]
+//library/content[attribute::content-id="*"]/display-name[attribute::xml:lang="fr-BE"]
+//library/content[attribute::content-id="*"]/custom-attributes/custom-attribute[attribute::attribute-id="body"][attribute::xml:lang="fr-BE"]
+

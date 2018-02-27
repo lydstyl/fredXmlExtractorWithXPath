@@ -1,0 +1,7 @@
+//catalog/category[attribute::category-id="root"]/attribute-groups/attribute-group[attribute::group-id="storefrontAttributes"]/display-name[attribute::xml:lang="fr-FR"]
+//catalog/category[attribute::category-id="*"]/display-name[attribute::xml:lang="fr-FR"]
+//catalog/category[attribute::category-id="*"]/page-attributes/page-title[attribute::xml:lang="fr-FR"]
+//catalog/category[attribute::category-id="*"]/page-attributes/page-description[attribute::xml:lang="fr-FR"]
+//catalog/category[attribute::category-id="*"]/custom-attributes/custom-attribute[attribute::attribute-id="headerMenuBanner"]
+//catalog/category[attribute::category-id="*"]/custom-attributes/custom-attribute[attribute::attribute-id="localHeaderMenuBanner"][attribute::xml:lang="fr-BE"]
+//catalog/category[attribute::category-id="*"]/custom-attributes/refinement-definitions/refinement-definition[attribute::attribute-id="*"]/display-name[attribute::xml:lang="fr-FR"]
