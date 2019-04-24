@@ -1,0 +1,24 @@
+{
+  "name": "fred-xml-pathlist-extractor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "xmlExtractor.js",
+  "dependencies": {
+    "he": "^1.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node xmlExtractor.js ./xml.xml ./pathLists/pathList.pathList > ./csv.csv" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lydstyl/fredXmlExtractorWithXPath.git"
+  },
+  "author": "Gabriel Brun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lydstyl/fredXmlExtractorWithXPath/issues"
+  },
+  "homepage": "https://github.com/lydstyl/fredXmlExtractorWithXPath#readme"
+}
